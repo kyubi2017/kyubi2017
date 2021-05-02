@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oussama Ait-ikhlef</h1>
 <h3 align="center">frontend developer from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyubi2017&label=Profile%20views&color=0e75b6&style=flat" alt="kyubi2017" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyubi2017" alt="kyubi2017" /></a> </p>
-
 - 🔭 I’m currently working in **freelance and help people in coding**
 
 - 💬 Ask me about **anything about front end development**
@@ -25,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyubi2017&show_icons=true&locale=en&layout=compact" alt="kyubi2017" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyubi2017&show_icons=true&locale=en" alt="kyubi2017" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyubi2017&" alt="kyubi2017" /></p>
