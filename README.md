@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **oussamaaitikhlf@gmail.com**
 
+- 📫 My portfolio <a href="https://peaceful-pasteur-24995c.netlify.app/">HERE</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/oussama ait-ikhlef" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="oussama ait-ikhlef" height="30" width="40" /></a>
