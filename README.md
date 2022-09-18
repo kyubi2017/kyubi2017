@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **oussamaaitikhlf@gmail.com**
 
-- 📫 My portfolio <a href="https://peaceful-pasteur-24995c.netlify.app/">HERE</a>
+- 📫 My portfolio <a href="https://porfolio-khaki.vercel.app/">HERE</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
