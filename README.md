@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oussama Ait-ikhlef</h1>
 <h3 align="center">frontend developer from Morocco</h3>
 
-- 🔭 I’m currently working in **freelance and help people in coding**
-
-- 💬 Ask me about **anything about front end development**
-
 - 📫 How to reach me **oussamaaitikhlf@gmail.com**
 
 - 📫 My portfolio <a href="https://porfolio-khaki.vercel.app/">HERE</a>
