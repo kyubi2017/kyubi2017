@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **oussamaaitikhlf@gmail.com**
 
-- 📫 My portfolio <a href="https://portfolio-mu-blush-34.vercel.app/">HERE</a>
+- 📫 My portfolio <a href="https://www.oussama-aitikhlef.me/">HERE</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
